@@ -1,3 +1,4 @@
+//This line imports scanner utility.
 import java.util.Scanner;
 
 public class LearnScanner{
